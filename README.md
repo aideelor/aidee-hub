@@ -1,5 +1,4 @@
 # aidee-hub
-Cliquea aquí
 
 
 ## 👩‍💻 ¡Hola! Soy Aidee  
